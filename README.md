@@ -35,6 +35,92 @@
   <a href="https://juejin.im/user/1829211147871415"><img src="https://img.shields.io/badge/juejin-%E6%8E%98%E9%87%91-9cf.svg" alt="掘金"></a>
   <a href="https://space.bilibili.com/305330347"><img src="https://img.shields.io/badge/bilibili-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-critical.svg" alt="哔哩哔哩"></a> 
 </p>
+收集一些日常工作学习中的常用软件或工具，为了方便定位到对应的软件，做了个页内目录
+
+- [操作系统](#操作系统)
+  - [windows](#windows)
+  - [Linux](#Linux)
+    - [CentOS](#CentOS)
+    - [readhat](#readhat)
+- [office办公软件](#office办公软件)
+  - [office2010](#office2010)
+  - [office2013](#office2013)
+  - [office2016](#office2016)
+- [中间件](#中间件)
+  - [weblogic](#weblogic)
+  - [tomcat](#tomcat)
+- [数据库](#数据库)
+  - [oracle](#oracle)
+  - [PostgreSql](#PostgreSql)
+  - [MongoDB](#MongoDB)
+- [数据库连接工具](#数据库连接工具)
+  - [plsql](#plsql)
+  - [navicat](#navicat)
+- [开发工具](#开发工具)
+- [其他实用工具、软件](#其他实用工具、软件)
+
+# 操作系统
+
+## windows
+
+## Linux
+
+### CentOS
+
+CentOS-6.10-i386   [阿里云镜像链接](http://mirrors.aliyun.com/centos/6/isos/i386/)
+
+CentOS-6.10-x86_64   [阿里云镜像链接](http://mirrors.aliyun.com/centos/6/isos/x86_64/)
+
+CentOS-7-x86_64  [阿里云镜像链接](http://mirrors.aliyun.com/centos/7/isos/x86_64/)
+
+CentOS-8.2.2004-x86_64  [阿里云镜像链接](http://mirrors.aliyun.com/centos/8/isos/x86_64/)
+
+### RedHat
+
+# office 办公软件
+
+## ofice 2010
+
+## office 2013
+
+## office2016
+
+# 中间件
+
+## weblogic
+
+## tomcat
+
+# 数据库
+
+## oracle
+
+## PostgreSql
+
+## MongoDB
+
+## sqllite
+
+# 数据库连接工具
+
+## plsql
+
+## navicat
+
+# 开发工具
+
+## eclipse
+
+## idea
+
+## vscode
+
+# 其他实用工具、软件
+
+
+
+
+
 
 
 
