@@ -45,7 +45,6 @@
 - [office办公软件](#office办公软件)
   - [office2010](#office2010)
   - [office2013](#office2013)
-  - [office2016](#office2016)
 - [中间件](#中间件)
   - [weblogic](#weblogic)
   - [tomcat](#tomcat)
@@ -67,35 +66,103 @@
 
 ### CentOS
 
-CentOS-6.10-i386   [阿里云镜像链接](http://mirrors.aliyun.com/centos/6/isos/i386/)
+- CentOS-6.10-i386   [阿里云镜像链接](http://mirrors.aliyun.com/centos/6/isos/i386/)
 
-CentOS-6.10-x86_64   [阿里云镜像链接](http://mirrors.aliyun.com/centos/6/isos/x86_64/)
+- CentOS-6.10-x86_64   [阿里云镜像链接](http://mirrors.aliyun.com/centos/6/isos/x86_64/)
 
-CentOS-7-x86_64  [阿里云镜像链接](http://mirrors.aliyun.com/centos/7/isos/x86_64/)
+- CentOS-7-x86_64  [阿里云镜像链接](http://mirrors.aliyun.com/centos/7/isos/x86_64/)
 
-CentOS-8.2.2004-x86_64  [阿里云镜像链接](http://mirrors.aliyun.com/centos/8/isos/x86_64/)
+- CentOS-8.2.2004-x86_64  [阿里云镜像链接](http://mirrors.aliyun.com/centos/8/isos/x86_64/)
 
 ### RedHat
+
+### Oracle
+
+[Oracle Linux百度网盘地址](https://pan.baidu.com/s/1qW7cjnQ#list/path=%2F)
+
+### debian
+
+[debian Linux 百度网盘地址](https://pan.baidu.com/s/1bn3yPUR#list/path=%2F)
+
+### openSUSE
+
+[openSUSE Linux百度网盘地址](https://pan.baidu.com/s/1c3xKiek)
+
+### Fedora
+
+[Fedora Linux百度网盘下载地址](https://pan.baidu.com/s/1pJHT6bT#list/path=%2F)
+
+### ubuntu
+
+[ubuntu Linux 百度网盘下载地址](https://pan.baidu.com/s/1jGHxJKU#list/path=%2F)
+
+### FreeBSD
+
+[FreeBSD Linux](https://pan.baidu.com/s/1c3l883e#list/path=%2F)
+
+
 
 # office 办公软件
 
 ## ofice 2010
 
+- office2010-64位      [百度云下载连接](https://pan.baidu.com/s/1UiYW7Gj_8YbuPBuiYcySbA)    提取码：ll5v
+- office2010-32位      [百度云下载连接](https://pan.baidu.com/s/14KKmemr-OvyZkwgGJycO0Q)    提取码：0h1r
+
 ## office 2013
 
-## office2016
+- office2013-32位     [百度云下载连接](https://pan.baidu.com/s/1zKWRN4KxGQw1_JKfC4YRNg)     提取码：zhax
+- office2013-64位     [百度云下载连接](https://pan.baidu.com/s/1ZrrNJoTOnsuJZVKBE1Va-Q)     提取码： eo4c
 
 # 中间件
 
 ## weblogic
 
+- wls1036_11g_win32.exe   [百度云下载连接](https://pan.baidu.com/s/1UoBF3In-_J6Vj5Arn4Rn_A)     提取码： 04t5
+
+- wls1036_generic.jar          [百度云下载连接](https://pan.baidu.com/s/1niI_3DqCdHDoV72ElELb5w)     提取码： 99m8
+
+- Weblogic Server 12.13_dev_win+Linux.zip       [百度云下载连接](https://pan.baidu.com/s/1E5slmYREP7N9VRt3QYW27A)     提取码： jqad
+
+- Weblogic Server 10.31_for linux x86.bin           [百度云下载连接](https://pan.baidu.com/s/1sDnG_Z5k6EKa0-M1nm3MNw)     提取码： mmvm
+
+  
+
 ## tomcat
+
+- [apace-tomcat 官方下载地址](https://tomcat.apache.org/)
+
+  
 
 # 数据库
 
 ## oracle
 
+- Oracle 10g R2_10.02_win32    [百度云下载连接](https://pan.baidu.com/s/12PfKT4DeRO54yzln_9phZQ)          提取码：csjh
+- Oracle win_32_11g_R2_database  ***由于文件过大，采用分卷压缩方式***
+  - Oracle win_32_11g_R2_database_1of2.zip    [百度云下载链接](https://pan.baidu.com/s/1fH0Qx1h_nW24kF3W8H8jrA)    提取码：  xvrp    
+  - Oracle win_32_11g_R2_database_2of2.zip     [百度云下载链接](https://pan.baidu.com/s/1JqD8llGn_lk8OKHq2vexmw)    提取码：  5dv2    
+- Oracle win_64_11g_R2_database  ***由于文件过大，采用分卷压缩方式***
+  - Oracle win_64_11g_R2_database_1of2.zip     [百度云下载链接](https://pan.baidu.com/s/12DMKg-ntZMAWTTQfX_K2og)    提取码：  ta2l
+  - Oracle win_64_11g_R2_database_2of2.zip      [百度云下载链接](https://pan.baidu.com/s/1ApAwLuXdTDvBf0a5oV0tgA)    提取码：  4i57
+- linux.x64_11gR2_database   ***由于文件过大，采用分卷压缩方式***
+  - linux.x64_11gR2_database_1of2.zip         [百度云下载链接](https://pan.baidu.com/s/12DMKg-ntZMAWTTQfX_K2og)    提取码：  ta2l
+  - linux.x64_11gR2_database_2of2.zip          [百度云下载链接](https://pan.baidu.com/s/1O8AwreArWwODEo7lb2cl9Q)    提取码：  qlm5
+- linux.x86_11gR2_database ***由于文件过大，采用分卷压缩方式***
+  - linux.x86_11gR2_database_1of2.zip          [百度云下载链接](https://pan.baidu.com/s/1X-wnjq5K1IIAlMVby-qzUw)    提取码：  g2rq
+  - linux.x86_11gR2_database_2of2.zip           [百度云下载链接](https://pan.baidu.com/s/1pHRbp-5sFbEqS5NBIpUCDA)    提取码：  bnre
+
+## mysql
+
+- windows 5.6   [百度云下载连接](https://pan.baidu.com/s/16PbhIA5O1WVHo6ddhD6avg)        提取码：hyxv
+- MySQL-5.6.39-1.el6.x86_64.rpm-bundle.tar         [百度云下载连接](https://pan.baidu.com/s/1njyxBkbnpz2m0bDpJtpaRg)        提取码：4jv7
+- MySQL-5.5.59-1.el6.x86_64.rpm-bundle.tar         [百度云下载连接](https://pan.baidu.com/s/1nS36r4syW9nCAcVTBmXHZg)        提取码：7r91
+- mysql-5.7.21-1.el6.x86_64.rpm-bundle                 [百度云下载连接](https://pan.baidu.com/s/14xcPucNxgP9njtLEDgFxqA)        提取码：wuqg
+- mysql-8.0.18-1.el6.x86_64.rpm-bundle.tar           [百度云下载连接](https://pan.baidu.com/s/11aVYbKy3J0uoC1oY9wnevQ)        提取码：oomk
+
 ## PostgreSql
+
+- postgresql-11.1-1-windows-x64                           [百度云下载连接](https://pan.baidu.com/s/18IXCC-xIpIocqBhK9MjqZg)        提取码：b2s9
 
 ## MongoDB
 
@@ -105,7 +172,15 @@ CentOS-8.2.2004-x86_64  [阿里云镜像链接](http://mirrors.aliyun.com/centos
 
 ## plsql
 
+-  PLSQLDeveloper.zip   [百度云下载连接](https://pan.baidu.com/s/18M1csSu9e3VFgRQusewSSA)    提取码：g26f
+
 ## navicat
+
+- Navicat安装包、注册工具、使用.zip   [百度云下载连接](https://pan.baidu.com/s/1yDooGbVxqAfwrrsEJ2_Tug)    提取码：9yoe
+
+## SQLyog
+
+- SQLyog12.0.8安装包及注册码.zip       [百度云下载连接](https://pan.baidu.com/s/1MbawQsqrAD1DWGOdNTjjZg)    提取码：mbd0
 
 # 开发工具
 
@@ -113,11 +188,29 @@ CentOS-8.2.2004-x86_64  [阿里云镜像链接](http://mirrors.aliyun.com/centos
 
 ## idea
 
+- ideaIU-2019.3.3 安装包破解教程.zip    [百度云下载连接](https://pan.baidu.com/s/1r_EnR701EoklqoSngap4oA)    提取码：lja3
+
 ## vscode
+
+- VSCodeUserSetup-x64-1.42.1.zip   [百度云下载连接](https://pan.baidu.com/s/1rJfO71Bd296aHgJQBRpVSQ)    提取码：kzq0
 
 # 其他实用工具、软件
 
+## SecureCRT
 
+- SecureCRT_5.1.3.zip    [百度云下载连接](https://pan.baidu.com/s/1t0uHXFSAoM_S15iJtWDT_g)    提取码：a1ip       
+
+## PicGo
+
+- PicGo-Setup-2.2.1.exe   [百度云下载连接](https://pan.baidu.com/s/10uDqjGPqDUad9aXYeqODtw)    提取码：cqcp
+
+## pandoc   
+
+- pandoc 一个将markdown文档格式互转插件.zip           [百度云下载连接](https://pan.baidu.com/s/1Vkyqj0kpLeS9bWeM6LYJmg)    提取码：hn1b
+
+## Typora
+
+- typora-setup-x64_0.9.78.zip    [百度云下载连接](https://pan.baidu.com/s/1_OZc-vy9aExnm0IM7CSVYw)    提取码：ndd1
 
 
 
